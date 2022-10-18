@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="name">What is the default modifier in Kotlin Language</string>
+    <string name="tittle">Question 1</string>
+    <string name="firstAnswer">Private</string>
+    <string name="secondAnswer">Public </string>
+    <string name="thirdAnswer">Protected</string>
+    <string name="fourthAnswer">Default</string>
+    <string name="Question2">Question 2</string>
+    <string name="Qsn2">What are the features of Android:</string>
+    <string name="checkAns">Bad UI</string>
+    <string name="chckAns2">Media Support</string>
+    <string name="chckAns3">Multi-touch</string>
+    <string name="checkAns4">Un-resizable Widgets</string>
+</resources>
